@@ -14,7 +14,7 @@ cssclasses:
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <video style="flex: 1 1 30%; max-width: 30%;" controls>
-    <source src="attachments/Faithfulness.mp4" type="video/mp4">
+    <source src="content/attachments/AWalk.mp4" type="video/mp4">
   </video>
   <video style="flex: 1 1 30%; max-width: 30%;" controls>
     <source src="attachments/AWalk.mp4" type="video/mp4">
