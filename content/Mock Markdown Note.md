@@ -6,6 +6,7 @@ Welcome to your **Markdown playground**! Here's a quick overview of what Markdow
 
 ## ✅ Basic Formatting
 
+- plain text
 - **Bold**
 - *Italic*
 - ***Bold & Italic***
